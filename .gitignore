@@ -1,0 +1,13 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Go
+backend/bin/
+backend/.env
+
+# Frontend env
+frontend/.env
+
+# Logs
+*.log
